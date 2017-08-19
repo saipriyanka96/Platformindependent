@@ -1,0 +1,6 @@
+Why Java known to be as platform independent language?
+
+Platform independent is also known as Platform Neutral which means we can write and run the 
+code at any supporting operating system. A programmer need to write his/her code at once, 
+compile it for one time and then he/she can execute it anywhere they want. That why it is 
+sloganed by "Write Once,Run Anywhere".
